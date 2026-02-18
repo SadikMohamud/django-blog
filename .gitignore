@@ -1,0 +1,19 @@
+# Environment variables
+env.py
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Database
+db.sqlite3
+
+# Node
+node_modules/
+
+# GitHub
+.github/
+
+# Misc
+core.*
+cloudinary_python.txt
